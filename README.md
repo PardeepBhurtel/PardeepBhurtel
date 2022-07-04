@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PardeepBhurtel
-- 👀 I’m interested in ...ML
-- 🌱 I’m currently learning ...Flutter
-- 💞️ I’m looking to collaborate on ...Various Projects related to Flutter
+- 👀 I’m interested in ...ML,Computer Vision,DeepLearning,etc
+- 🌱 I’m currently learning ...Flutter,Deep Learning
+- 💞️ I’m looking to collaborate on ...Various Projects related to Flutter & AI related projects
 - 📫 How to reach me ...prbhurtel072@gmail.com
 
 <!---
